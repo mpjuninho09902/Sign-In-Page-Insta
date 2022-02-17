@@ -1,7 +1,7 @@
 *{
     margin: 0;
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 0.9rem;
 }
 
 .box{
@@ -116,4 +116,18 @@ a{
     width: 136px;
     height: 40px;
     padding: 5px;
+}
+
+@media (max-width: 900px){
+    .phone img{
+        width: 0;
+        height: 0;
+    }
+}
+
+@media (max-width: 400px){
+    .box{
+        width: 90%;
+        margin-left: 15px;
+    }
 }
