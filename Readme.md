@@ -1,6 +1,6 @@
 # REPLICANDO A PÁGINA DE LOGIN DO INSTAGRAM
 
-## 😄 Introdção
+## 😄 Introdução
 
  Página de Login do Instagram responsiva criada por mim com o objetivo de aprimorar meus conhecimentos.
 
@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [VSCode](https://code.visualstudio.com)
 - [Git](https://git-scm.com)
 
-## 🖼️ Imagens demonstrativa do projeto
+## 🖼️ Imagens demonstrativas do projeto
 
 - Desktop
 
